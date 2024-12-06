@@ -1,0 +1,16 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.gridStyle {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  place-items: center;
+}
+
+
+
+
+.gridBox:hover {
+  background-color: #a9a9a9;
+}
